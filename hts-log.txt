@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 21 Dec 2025 11:50:02 at www.harmwijnstra.nl/start www.harmwijnstra.nl/dirigeren www.harmwijnstra.nl/composities www.harmwijnstra.nl/viool www.en.harmwijnstra.nl/home www.en.harmwijnstra.nl/conducting www.en.harmwijnstra.nl/compositions www.en.harmwijnstra.nl/violin +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" www.harmwijnstra.nl/start www.harmwijnstra.nl/dirigeren www.harmwijnstra.nl/composities www.harmwijnstra.nl/viool www.en.harmwijnstra.nl/home www.en.harmwijnstra.nl/conducting www.en.harmwijnstra.nl/compositions www.en.harmwijnstra.nl/violin -O1 "C:\My Web Sites\Harm Wijnstra" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:50:14	Error: 	"Not Found" (404) at link https://www.harmwijnstra.nl/POST (from https://www.harmwijnstra.nl/start)
+11:50:14	Error: 	"Not Found" (404) at link https://www.harmwijnstra.nl/_/ss/ (from https://www.harmwijnstra.nl/start)
+11:50:14	Error: 	"Not Found" (404) at link https://www.en.harmwijnstra.nl/POST (from https://www.en.harmwijnstra.nl/home)
+11:50:15	Error: 	"Not Found" (404) at link https://www.en.harmwijnstra.nl/_/ss/ (from https://www.en.harmwijnstra.nl/home)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 19 links scanned, 13 files written (1678915 bytes overall) [901099 bytes received at 69315 bytes/sec], 1848938 bytes transferred using HTTP compression in 16 files, ratio 28%
+(4 errors, 0 warnings, 0 messages)
